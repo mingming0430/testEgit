@@ -7,5 +7,7 @@ public class HelloEgit {
 		System.out.println("ddddddddd");
 		System.out.println("ccccccccccccc");
 		System.out.println("fffff");
+		System.out.println("vvv");
+		System.out.println("cc");
 	}
 }
